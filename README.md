@@ -34,6 +34,4 @@
   - Test air quality API with various cities.
 
 ### Our Current Work:
-We are in the process of integrating the Google Maps API for enhanced route visualization. However, since the Google Maps API key is currently available only through paid plans, we are exploring alternative solutions to achieve this functionality within a free or cost-effective framework. Updates to the program with this improved feature set will be available soon.
-
-**Current Date and time**: Tuesday, January 07, 2025, 6 PM IST
+We are in the process of integrating the Google Maps API for enhanced route visualization. However, since the Google Maps API key is currently available only through paid plans, we are exploring alternative solutions to achieve this functionality within a free or cost-effective framework. 
